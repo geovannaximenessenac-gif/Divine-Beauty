@@ -16,7 +16,7 @@ header {
 }
 
 i {
-  color: #FFF;
+  color: #B76E79;
 }
 
 .header-icons {
@@ -273,7 +273,7 @@ i {
   justify-content: center;
   padding: 54px 0;
   gap: 24px;
-  color: #FFF;
+  color: #4A2C2A;
 }
 
 .footer-icons {
@@ -306,7 +306,7 @@ i {
   border-radius: 8px;
   text-align: center;
   background-color: #232224;
-  color: #FFF;
+  color: #D4AF37;
   opacity: 0;
   transition: opacity 0.4s;
 }
@@ -326,7 +326,7 @@ body {
   width: 100%;
   height: 100vh;
   position: relative;
-  background-color: #F2D6D2;
+  background-color: #F8F4F2;
   cursor: url("./assets/pont.png"), auto;
 }
 
